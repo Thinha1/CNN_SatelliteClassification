@@ -2,4 +2,4 @@
 Đồ án cuối kỳ môn Trí tuệ nhân tạo
 
 Mọi người có thể vào link này để tải model vì model khá nặng nên mình không up lên github 
-# Link: https://drive.google.com/drive/u/0/folders/13y2ZFgxyDzY35IHmeEMUsHK3k1-rGfcw
+## Link: https://drive.google.com/drive/u/0/folders/13y2ZFgxyDzY35IHmeEMUsHK3k1-rGfcw
