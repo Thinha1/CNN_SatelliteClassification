@@ -1,0 +1,5 @@
+Training Completed!
+----------------------------------------
+Final Train Loss: 0.6311, Accuracy: 0.7069
+Final Val Loss:   0.6959, Accuracy: 0.6923
+Best Validation Accuracy: 0.6923
