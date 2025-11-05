@@ -6,3 +6,6 @@ tifffile
 Pillow
 matplotlib
 tensorboard
+flask
+flask-cors
+pandas

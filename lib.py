@@ -10,4 +10,3 @@ from tqdm import tqdm
 from torch.utils.tensorboard import SummaryWriter
 from PIL import Image
 import matplotlib.pyplot as plt
-import copy
