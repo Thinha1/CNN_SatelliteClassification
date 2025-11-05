@@ -13,6 +13,7 @@
 *.ckpt
 *.pth
 *.pt
+*.jpg
  .DS_Store
  Thumbs.db
  uploads/
